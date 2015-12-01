@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e1f0c60-e50d-42c2-b16a-a411ff82c365" name="120.27.130.157" url="http://10000.niu.gakaki.com">
+        <fileTransfer host="120.27.130.157" port="22" rootFolder="/usr/local/tengine/conf" accessType="SFTP" password="dfdfdf98dfdedfdcdfd2dfecdfdedfccdfdedfc9dfd2dfdfdfdadfeedfd9dfec" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="05e2e16d-cc0c-4c8a-a2d2-360ee7467ae2" name="gakaki.vicp.net" url="http://gakaki.vicp.net">
+        <fileTransfer host="gakaki.vicp.net" port="20001" rootFolder="/usr/local/tengine/conf" accessType="SFTP" password="dfd0df9fdf92df93df9cdf99df98df9b" username="g">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3bf480ee-707c-4b18-932c-3419eea01f09" name="192.168.56.101" url="http://192.168.56.101">
+        <fileTransfer host="192.168.56.101" port="22" rootFolder="/usr/local/tengine/conf/" accessType="SFTP" password="df8a" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
